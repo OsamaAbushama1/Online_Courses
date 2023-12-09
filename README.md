@@ -12,8 +12,7 @@ When choosing an online course, there are a few factors to consider:
 
 * **Learning style:** Some students prefer to learn through video or audio instruction, while others prefer to learn by reading or doing. It is important to choose a course that uses a learning style that works for you.
 * **Course content:** Make sure that the course content covers the topics that you want to learn. You may also want to read reviews of the course to see what other students have said about it.
-* **Cost:** Online courses can range in price from free to hundreds of dollars. It is important to set a budget before you start shopping for courses.
-
+  
 ## Taking online courses at home
 
 There are a few things to keep in mind when taking online courses at home:
