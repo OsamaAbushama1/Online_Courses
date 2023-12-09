@@ -33,6 +33,6 @@ There are many resources available online that can teach you how to use HTML and
 
 ## Conclusion
 
-Online courses are a great way to learn new skills and knowledge at your own pace. When choosing an online course, it is important to consider your learning style, the course content, and the cost. If you are taking online courses at home, it is important to create a dedicated learning space, set aside time for studying, and take breaks.
+Online courses are a great way to learn new skills and knowledge at your own pace. When choosing an online course, it is important to consider your learning style, the course content.  If you are taking online courses at home, it is important to create a dedicated learning space, set aside time for studying, and take breaks.
 
 HTML and CSS are the two main programming languages used to create web pages. If you are interested in learning how to create web pages, there are many resources available online that can teach you the basics of HTML and CSS.
