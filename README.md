@@ -20,7 +20,6 @@ There are a few things to keep in mind when taking online courses at home:
 * **Create a dedicated learning space:** This will help you stay focused and avoid distractions.
 * **Set aside time for studying:** Just like with traditional classes, it is important to set aside time each week to study for your online courses.
 * **Take breaks:** Get up and move around every hour or so to avoid getting too tired.
-* **Ask for help:** Don't be afraid to ask the instructor or other students for help if you need it.
 
 ## Using HTML and CSS to create web pages
 
